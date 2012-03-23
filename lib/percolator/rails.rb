@@ -1,5 +1,5 @@
-require "percolator-rails/rails/version"
-require "percolator-rails/rails/engine"
+require "percolator/rails/version"
+require "percolator/rails/engine"
 module Percolator
   module Rails
   end
